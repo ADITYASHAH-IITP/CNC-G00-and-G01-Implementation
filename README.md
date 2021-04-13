@@ -6,5 +6,6 @@ G00 ( Rapid positioning )	--> On 2- or 3-axis moves, G00 (unlike G01) traditiona
 
 G01	( Linear interpolation) -->	The most common workhorse code for feeding during a cut. The program specs the start and endpoints, and the control automatically calculates (interpolates) the intermediate points to pass through that yield a straight line (hence "linear"). The control then calculates the angular velocities at which to turn the axis leadscrews via their servomotors or stepper motors. The computer performs thousands of calculations per second, and the motors react quickly to each input. Thus the actual toolpath of the machining takes place with the given feed rate on a path that is accurately linear to within very small limits.
 
-https://user-images.githubusercontent.com/37467941/114523957-6dee6480-9c62-11eb-835b-c669f8519dd7.mp4
+![CNC G00 and G01](https://user-images.githubusercontent.com/37467941/114524466-de958100-9c62-11eb-9d6d-5859e5f33585.gif)
+
 
