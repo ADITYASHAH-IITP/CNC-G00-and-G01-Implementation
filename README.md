@@ -1,3 +1,4 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/37467941/114655522-f96f0080-9d09-11eb-82fe-ba2f13adbb28.gif)
 # CNC-G00-and-G01-Implementation
 G - Address for preparatory commands
   - This commands often tell the control what kind of motion is wanted (e.g., rapid positioning, linear feed, circular feed, fixed cycle) or what offset value to use.
@@ -9,3 +10,4 @@ G01	( Linear interpolation) -->	The most common workhorse code for feeding durin
 ![CNC G00 and G01](https://user-images.githubusercontent.com/37467941/114524466-de958100-9c62-11eb-9d6d-5859e5f33585.gif)
 
 
+![Uploading ezgif.com-gif-maker.gif…]()
