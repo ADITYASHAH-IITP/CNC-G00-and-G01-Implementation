@@ -10,5 +10,3 @@ G01	( Linear interpolation) -->	The most common workhorse code for feeding durin
 ![CNC G00 and G01](https://user-images.githubusercontent.com/37467941/114524466-de958100-9c62-11eb-9d6d-5859e5f33585.gif)
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/37467941/114655732-6d110d80-9d0a-11eb-900b-0ff3ec858bcc.gif)
-
