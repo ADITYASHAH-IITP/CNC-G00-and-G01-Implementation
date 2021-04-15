@@ -1,4 +1,5 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/37467941/114655522-f96f0080-9d09-11eb-82fe-ba2f13adbb28.gif)                                             ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/37467941/114849666-9a8ab380-9dfd-11eb-930f-afc801d0cf54.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/37467941/114854375-61a10d80-9e02-11eb-8d17-596ef2f6546c.gif)
 
 
 # CNC-G00-and-G01-Implementation
