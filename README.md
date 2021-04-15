@@ -3,7 +3,8 @@
 
 
 
-![2nd Output GIF](https://user-images.githubusercontent.com/37467941/114868100-31159f80-9e13-11eb-9214-6eddc593f195.gif)
+![2nd Output GIF](https://user-images.githubusercontent.com/37467941/114870430-cb76e280-9e15-11eb-9c28-3c80d5be6b10.gif)
+
 
 # CNC-G00-and-G01-Implementation
 G - Address for preparatory commands
