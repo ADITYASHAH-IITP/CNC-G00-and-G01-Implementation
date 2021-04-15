@@ -2,6 +2,9 @@
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/37467941/114854375-61a10d80-9e02-11eb-8d17-596ef2f6546c.gif)
 
 
+
+![2nd Output GIF](https://user-images.githubusercontent.com/37467941/114868100-31159f80-9e13-11eb-9214-6eddc593f195.gif)
+
 # CNC-G00-and-G01-Implementation
 G - Address for preparatory commands
   - This commands often tell the control what kind of motion is wanted (e.g., rapid positioning, linear feed, circular feed, fixed cycle) or what offset value to use.
